@@ -87,7 +87,7 @@ class Search extends React.Component {
               <p>{ collectionName }</p>
               <p>{ artistName }</p>
               <Link
-                to={ `/album/${collectionId}` }
+                to={ `/trybe_frontend_4-trybetunes/album/${collectionId}` }
                 data-testid={ `link-to-album-${collectionId}` }
               >
                 <span>Abrir Álbum</span>

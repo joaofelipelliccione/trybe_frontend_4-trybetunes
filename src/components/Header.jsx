@@ -39,12 +39,12 @@ class Header extends React.Component {
       <header data-testid="header-component">
         <div id="logoAndUserBar">
           <img src={logo} alt="trybetunes-logo" />
-          <Link to='/' data-testid="header-user-name">Sair</Link>
+          <Link to='/trybe_frontend_4-trybetunes/' data-testid="header-user-name">Sair</Link>
         </div>
         <div id="linksBar">
-          <Link to="/search" data-testid="link-to-search">Pesquisa</Link>
-          <Link to="/favorites" data-testid="link-to-favorites">Favoritas</Link>
-          <Link to="/profile" data-testid="link-to-profile">Perfil</Link>
+          <Link to="/trybe_frontend_4-trybetunes/search" data-testid="link-to-search">Pesquisa</Link>
+          <Link to="/trybe_frontend_4-trybetunes/favorites" data-testid="link-to-favorites">Favoritas</Link>
+          <Link to="/trybe_frontend_4-trybetunes/profile" data-testid="link-to-profile">Perfil</Link>
         </div>
         { loading &&
           <div id="loadingContainer">

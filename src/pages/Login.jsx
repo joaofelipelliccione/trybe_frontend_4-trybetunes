@@ -51,7 +51,7 @@ class Login extends React.Component {
 
     // O usuário será redirecionado para o path "/search" após se cadastrar na plataforma, ou seja, quando o estado "redirectToSearch" for true.
     if (redirectToSearch) {
-      return (<Redirect to="/search" />);
+      return (<Redirect to="/trybe_frontend_4-trybetunes/search" />);
     }
 
     return (
