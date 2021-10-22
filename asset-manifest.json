@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/trybe_frontend_4-trybetunes/static/css/main.0dce27f9.chunk.css",
+    "main.css": "/trybe_frontend_4-trybetunes/static/css/main.8edcb54d.chunk.css",
     "main.js": "/trybe_frontend_4-trybetunes/static/js/main.085a6da5.chunk.js",
     "main.js.map": "/trybe_frontend_4-trybetunes/static/js/main.085a6da5.chunk.js.map",
     "runtime-main.js": "/trybe_frontend_4-trybetunes/static/js/runtime-main.f2a2520a.js",
@@ -8,7 +8,7 @@
     "static/js/2.32fea4ba.chunk.js": "/trybe_frontend_4-trybetunes/static/js/2.32fea4ba.chunk.js",
     "static/js/2.32fea4ba.chunk.js.map": "/trybe_frontend_4-trybetunes/static/js/2.32fea4ba.chunk.js.map",
     "index.html": "/trybe_frontend_4-trybetunes/index.html",
-    "static/css/main.0dce27f9.chunk.css.map": "/trybe_frontend_4-trybetunes/static/css/main.0dce27f9.chunk.css.map",
+    "static/css/main.8edcb54d.chunk.css.map": "/trybe_frontend_4-trybetunes/static/css/main.8edcb54d.chunk.css.map",
     "static/js/2.32fea4ba.chunk.js.LICENSE.txt": "/trybe_frontend_4-trybetunes/static/js/2.32fea4ba.chunk.js.LICENSE.txt",
     "static/media/ilustracaoProfile.002dfa45.svg": "/trybe_frontend_4-trybetunes/static/media/ilustracaoProfile.002dfa45.svg",
     "static/media/notFoundMsg.526ef7b2.png": "/trybe_frontend_4-trybetunes/static/media/notFoundMsg.526ef7b2.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.f2a2520a.js",
     "static/js/2.32fea4ba.chunk.js",
-    "static/css/main.0dce27f9.chunk.css",
+    "static/css/main.8edcb54d.chunk.css",
     "static/js/main.085a6da5.chunk.js"
   ]
 }
