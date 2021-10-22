@@ -18,10 +18,11 @@
 }
 
 #profilePageMsg {
-  font-size: 1.1em;
+  font-size: 1.3em;
   color: #474b54;
   width: fit-content;
   margin-top: 0;
+  margin-bottom: 3%;
 }
 
 #profilePageIllust {

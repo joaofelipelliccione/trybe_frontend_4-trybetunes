@@ -21,7 +21,7 @@ header {
 }
 
 #logoAndUserBar img {
-  width: 100px;
+  width: 150px;
   margin-left: 2%;
 }
 
@@ -29,8 +29,8 @@ header {
   background-color: ghostwhite;
   color: #42464f;
   border-radius: 15px;
-  width: 70px;
-  font-size: 0.85em;
+  width: 10%;
+  font-size: 1.1em;
   text-align: center;
   text-decoration: none;
   margin-top: 25px;
@@ -41,7 +41,7 @@ header {
 
 #logoAndUserBar a:hover {
   color: rgb(182, 69, 69);
-  width: 85px;
+  width: 8%;
 }
 
 #linksBar {
@@ -54,7 +54,7 @@ header {
   background-color: #036B52;
   color: white;
   text-align: center;
-  font-size: 1.1em;
+  font-size: 1.3em;
   font-weight: 600;
   text-decoration: none;
   width: 33.25%;
@@ -65,7 +65,7 @@ header {
 #linksBar a:hover {
   background-color: #e3e3e6;
   color: #2FC18C;
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 
 #loadingContainer {
@@ -73,7 +73,7 @@ header {
   border-radius: 7px;
   width: 15%;
   text-align: center;
-  font-size: 0.9em;
+  font-size: 1.2em;
   margin: 0.8% 42.5%;
   padding: 0.3%;
 }
